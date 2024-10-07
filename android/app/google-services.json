@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "513713189156",
+    "project_id": "studyplan-d2c59",
+    "storage_bucket": "studyplan-d2c59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513713189156:android:19d2772b1ab47d11d203b1",
+        "android_client_info": {
+          "package_name": "com.example.studyplan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513713189156-mnsdtpii853ufo95nvgr7gb7u2jl2cs9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studyplan",
+            "certificate_hash": "aef529617793c25a96d1f0b054dd670df74f967f"
+          }
+        },
+        {
+          "client_id": "513713189156-4obt9djhm6p22m3dg9vd7i6fghsc31f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMD5EIoXCMEkgoor7XhwqsCUY1j7PoORA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513713189156-4obt9djhm6p22m3dg9vd7i6fghsc31f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

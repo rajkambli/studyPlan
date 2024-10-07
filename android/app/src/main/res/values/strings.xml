@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Facebook App ID -->
+    <string name="facebook_app_id">1895601724250581</string>
+
+    <!-- Facebook Login Protocol Scheme -->
+    <string name="fb_login_protocol_scheme">fb1895601724250581</string>
+
+    <!-- Facebook Client Token -->
+    <string name="facebook_client_token">fec063e9a8822638bb9b207071ab0827</string>
+
+    <!-- Application Name -->
+    <string name="app_name">studyPlan</string>
+</resources>
